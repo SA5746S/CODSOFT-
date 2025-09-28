@@ -48,3 +48,11 @@ Each project is implemented using only Python and covers different concepts like
 1. Clone the repository:
    ```Google Cloud Console
    git clone https://github.com/SA5746S/CODSOFT-.git
+   ls
+   cd CODSOFT-
+   ls
+   python calculator.py
+   python 'Contact Book.PY'
+   python password_generator.py
+   python 'Rock-Paper-Scissors Game.py'
+   python To_Do_List.py
